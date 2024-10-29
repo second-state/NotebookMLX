@@ -16,7 +16,7 @@ rewrites, and [lucasnewman/f5-tts-mlx](https://huggingface.co/lucasnewman/f5-tts
 > ![Outline.jpg](resources/Outline.jpg)
 
 
-[Step 1](Step-1 PDF-Pre-Processing-Logic.ipynb): Pre-process PDF:
+[Step 1](Step-1-PDF-Pre-Processing-Logic.ipynb): Pre-process PDF:
 Use [mlx-community/Qwen2.5-1.5B-Instruct-bf16](https://huggingface.co/mlx-community/Qwen2.5-1.5B-Instruct-4bit) to
 pre-process the PDF and save it in a .txt file.
 
