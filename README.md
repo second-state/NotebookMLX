@@ -24,9 +24,24 @@ pre-process the PDF and save it in a .txt file.
 Use [mlx-community/Qwen2.5-14B-Instruct-4bit](https://huggingface.co/mlx-community/Qwen2.5-14B-Instruct-4bit) to write a
 podcast transcript from the text.
 
-[Step-3-Re-Writer.ipynb](Step-3-Re-Writer.ipynb)Step 3: Dramatic Re-Writer: Use
+[Step 3](Step-3-Re-Writer.ipynb): Dramatic Re-Writer: Use
 the [mlx-community/Qwen2.5-7B-Instruct-4bit](https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit) model to
 make the transcript more dramatic.
 
-[Step-4-TTS-Workflow.ipynb](Step-4-TTS-Workflow.ipynb)Step 4: Text-To-Speech Workflow: Use [lucasnewman/f5-tts-mlx](https://huggingface.co/lucasnewman/f5-tts-mlx) to generate
+[Step 4](Step-4-TTS-Workflow.ipynb): Text-To-Speech Workflow:
+Use [lucasnewman/f5-tts-mlx](https://huggingface.co/lucasnewman/f5-tts-mlx) to generate
 a conversational podcast.
+
+## The podcast audio
+
+https://github.com/user-attachments/assets/257e4822-1af0-479a-94a4-a61c7abe434b
+
+## Star History
+
+<a href="https://star-history.com/#maiqingqiang/NotebookMLX&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=maiqingqiang/NotebookMLX&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=maiqingqiang/NotebookMLX&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=maiqingqiang/NotebookMLX&type=Date" />
+ </picture>
+</a>
