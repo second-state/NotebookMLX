@@ -1,5 +1,7 @@
 # NotebookMLX
 
+English | [简体中文](./zh_CN/README.md)
+
 > [meta-llama/NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 
 I ported [NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) and
@@ -34,7 +36,7 @@ a conversational podcast.
 
 ## The podcast audio
 
-https://github.com/user-attachments/assets/257e4822-1af0-479a-94a4-a61c7abe434b
+https://github.com/user-attachments/assets/c7cf2d2f-766f-4026-8442-c584f6a32292
 
 ## Star History
 
