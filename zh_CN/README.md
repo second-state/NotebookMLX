@@ -14,7 +14,7 @@ PDF
 最后用 [lucasnewman/f5-tts-mlx](https://huggingface.co/lucasnewman/f5-tts-mlx) 生成播客音频 ⚡
 
 > 这里引用了 NotebookLlama 流程图.
-> ![Outline.jpg](resources/Outline.jpg)
+> ![Outline.jpg](../resources/Outline.jpg)
 
 
 [步骤 1](Step-1-PDF预处理.ipynb): 预处理
